@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.nasa.tests.TestSuit" duration-ms="9891" started-at="2022-02-19T06:55:01Z" finished-at="2022-02-19T06:55:11Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9891" started-at="2022-02-19T06:55:01Z" finished-at="2022-02-19T06:55:11Z">
+      <class name="com.nasa.tests.TestSuit">
+        <test-method status="PASS" signature="VerifyFieldsNotNull()[pri:0, instance:com.nasa.tests.TestSuit@366e2eef]" name="VerifyFieldsNotNull" duration-ms="2793" started-at="2022-02-19T06:55:01Z" description="Verify that the field object is not empty" finished-at="2022-02-19T06:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFieldsNotNull -->
+        <test-method status="PASS" signature="VerifyDataNotNull()[pri:1, instance:com.nasa.tests.TestSuit@366e2eef]" name="VerifyDataNotNull" duration-ms="0" started-at="2022-02-19T06:55:04Z" description="Verify that the Data object is not empty" finished-at="2022-02-19T06:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDataNotNull -->
+        <test-method status="PASS" signature="VerifySignatureNotNull()[pri:2, instance:com.nasa.tests.TestSuit@366e2eef]" name="VerifySignatureNotNull" duration-ms="7" started-at="2022-02-19T06:55:04Z" description="Verify that the Signature object is not empty" finished-at="2022-02-19T06:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySignatureNotNull -->
+        <test-method status="PASS" signature="VerifyCountNotNull()[pri:3, instance:com.nasa.tests.TestSuit@366e2eef]" name="VerifyCountNotNull" duration-ms="9" started-at="2022-02-19T06:55:04Z" description="Verify that the Count is not empty" finished-at="2022-02-19T06:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCountNotNull -->
+        <test-method status="PASS" signature="VerifyCountNotNull2()[pri:4, instance:com.nasa.tests.TestSuit@366e2eef]" name="VerifyCountNotNull2" duration-ms="1876" started-at="2022-02-19T06:55:04Z" description="Verify that the Count is not empty" finished-at="2022-02-19T06:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCountNotNull2 -->
+        <test-method status="PASS" signature="VerifyFilterValuesNotNull()[pri:5, instance:com.nasa.tests.TestSuit@366e2eef]" name="VerifyFilterValuesNotNull" duration-ms="1520" started-at="2022-02-19T06:55:06Z" description="Verify that all the filter values are available" finished-at="2022-02-19T06:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFilterValuesNotNull -->
+        <test-method status="PASS" signature="VerifyDataValuesNotNull()[pri:6, instance:com.nasa.tests.TestSuit@366e2eef]" name="VerifyDataValuesNotNull" duration-ms="1776" started-at="2022-02-19T06:55:07Z" description="Verify that all the data array values are available" finished-at="2022-02-19T06:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDataValuesNotNull -->
+        <test-method status="PASS" signature="VerifyTheStatusCodes()[pri:7, instance:com.nasa.tests.TestSuit@366e2eef]" name="VerifyTheStatusCodes" duration-ms="1892" started-at="2022-02-19T06:55:09Z" description="Verify that all the status codes are working as expected" finished-at="2022-02-19T06:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTheStatusCodes -->
+      </class> <!-- com.nasa.tests.TestSuit -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.nasa.tests.TestSuit -->
+</testng-results>
