@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="com.nasa.tests.TestSuit" duration-ms="15757" started-at="2022-02-19T08:37:08Z" finished-at="2022-02-19T08:37:23Z">
+  <suite name="com.nasa.tests.TestSuit" duration-ms="16088" started-at="2022-02-19T15:32:44Z" finished-at="2022-02-19T15:33:00Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="15757" started-at="2022-02-19T08:37:08Z" finished-at="2022-02-19T08:37:23Z">
+    <test name="Command line test" duration-ms="16088" started-at="2022-02-19T15:32:44Z" finished-at="2022-02-19T15:33:00Z">
       <class name="com.nasa.tests.TestSuit">
-        <test-method status="PASS" signature="VerifyFieldsNotNull()[pri:0, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyFieldsNotNull" duration-ms="7324" started-at="2022-02-19T08:37:08Z" description="Verify that the field object is not empty" finished-at="2022-02-19T08:37:15Z">
+        <test-method status="PASS" signature="VerifyFieldsNotNull()[pri:0, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyFieldsNotNull" duration-ms="7401" started-at="2022-02-19T15:32:44Z" description="Verify that the field object is not empty" finished-at="2022-02-19T15:32:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyFieldsNotNull -->
-        <test-method status="PASS" signature="VerifyDataNotNull()[pri:1, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyDataNotNull" duration-ms="0" started-at="2022-02-19T08:37:15Z" description="Verify that the Data object is not empty" finished-at="2022-02-19T08:37:15Z">
+        <test-method status="PASS" signature="VerifyDataNotNull()[pri:1, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyDataNotNull" duration-ms="0" started-at="2022-02-19T15:32:51Z" description="Verify that the Data object is not empty" finished-at="2022-02-19T15:32:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyDataNotNull -->
-        <test-method status="PASS" signature="VerifySignatureNotNull()[pri:2, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifySignatureNotNull" duration-ms="25" started-at="2022-02-19T08:37:15Z" description="Verify that the Signature object is not empty" finished-at="2022-02-19T08:37:15Z">
+        <test-method status="PASS" signature="VerifySignatureNotNull()[pri:2, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifySignatureNotNull" duration-ms="24" started-at="2022-02-19T15:32:51Z" description="Verify that the Signature object is not empty" finished-at="2022-02-19T15:32:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifySignatureNotNull -->
-        <test-method status="PASS" signature="VerifyCountNotNull()[pri:3, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyCountNotNull" duration-ms="27" started-at="2022-02-19T08:37:15Z" description="Verify that the Count is not empty" finished-at="2022-02-19T08:37:15Z">
+        <test-method status="PASS" signature="VerifyCountNotNull()[pri:3, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyCountNotNull" duration-ms="28" started-at="2022-02-19T15:32:51Z" description="Verify that the Count is not empty" finished-at="2022-02-19T15:32:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyCountNotNull -->
-        <test-method status="PASS" signature="VerifyCountNotNull2()[pri:4, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyCountNotNull2" duration-ms="1357" started-at="2022-02-19T08:37:15Z" description="Verify that the Count is not empty" finished-at="2022-02-19T08:37:17Z">
+        <test-method status="PASS" signature="VerifyCountNotNull2()[pri:4, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyCountNotNull2" duration-ms="1803" started-at="2022-02-19T15:32:51Z" description="Verify that the Count is not empty" finished-at="2022-02-19T15:32:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyCountNotNull2 -->
-        <test-method status="PASS" signature="VerifyFilterValuesNotNull()[pri:5, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyFilterValuesNotNull" duration-ms="1353" started-at="2022-02-19T08:37:17Z" description="Verify that all the filter values are available" finished-at="2022-02-19T08:37:18Z">
+        <test-method status="PASS" signature="VerifyFilterValuesNotNull()[pri:5, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyFilterValuesNotNull" duration-ms="1148" started-at="2022-02-19T15:32:53Z" description="Verify that all the filter values are available" finished-at="2022-02-19T15:32:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyFilterValuesNotNull -->
-        <test-method status="PASS" signature="VerifyDataValuesNotNull()[pri:6, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyDataValuesNotNull" duration-ms="1392" started-at="2022-02-19T08:37:18Z" description="Verify that all the data array values are available" finished-at="2022-02-19T08:37:19Z">
+        <test-method status="PASS" signature="VerifyDataValuesNotNull()[pri:6, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyDataValuesNotNull" duration-ms="1329" started-at="2022-02-19T15:32:54Z" description="Verify that all the data array values are available" finished-at="2022-02-19T15:32:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyDataValuesNotNull -->
-        <test-method status="PASS" signature="VerifyTheStatusCodes()[pri:7, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyTheStatusCodes" duration-ms="4152" started-at="2022-02-19T08:37:19Z" description="Verify that all the status codes are working as expected" finished-at="2022-02-19T08:37:23Z">
+        <test-method status="PASS" signature="VerifyTheStatusCodes()[pri:7, instance:com.nasa.tests.TestSuit@3a03464]" name="VerifyTheStatusCodes" duration-ms="4235" started-at="2022-02-19T15:32:55Z" description="Verify that all the status codes are working as expected" finished-at="2022-02-19T15:33:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyTheStatusCodes -->
